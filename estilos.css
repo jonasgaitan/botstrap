@@ -44,3 +44,16 @@ h1 {
     display: flex;
     justify-content: center;
 }
+
+
+img .mat {
+    width: 700px;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+}
+
+
+header .mat{
+    height: 600px;
+}
