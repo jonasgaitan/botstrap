@@ -1,3 +1,20 @@
 .color {
     background-color: wheat;
 }
+
+
+
+
+main {
+    margin: 30px;
+   height: 400px;
+}
+
+
+p {
+    margin: 30px;
+    justify-content: center;
+}
+
+
+
