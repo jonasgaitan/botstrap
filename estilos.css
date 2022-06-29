@@ -54,7 +54,7 @@ img .mat {
 }
 
 
-
-main .seccion {
-    height: 700px;
+.contac{
+    display: flex;
+    justify-content: center;
 }
